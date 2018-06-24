@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-cloud-zuul
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: syuf
+Implementation-Vendor-Id: com.zlpay
+Build-Jdk: 1.8.0_172
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-cloud-zuul
+Created-By: Maven Integration for Eclipse
+
