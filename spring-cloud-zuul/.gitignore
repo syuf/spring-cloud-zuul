@@ -1,6 +1,10 @@
 /target/
 !.mvn/wrapper/maven-wrapper.jar
+<<<<<<< HEAD
 /eclipse-workspace/
+=======
+
+>>>>>>> branch 'master' of git@github.com:syuf/spring-cloud-zuul.git
 ### STS ###
 .apt_generated
 .classpath
