@@ -1,0 +1,18 @@
+server:
+  port: 3000
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:4001/eureka/,http://localhost:4003/eureka/,http://localhost:4003/eureka/
+spring:
+  cloud:
+    config:
+      discovery:
+        enabled: true
+        serviceId: config-server
+      label: master
+      profile: dev
+    bus:
+      trace:
+        enabled: true 
+

@@ -1,4 +1,4 @@
-package com.zlpay.zuul;
+package com.zlpay;
 
 import org.springframework.boot.SpringApplication;
 

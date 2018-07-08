@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: service-zuul
+  profiles:
+    active: dev
+hystrix:
+  metrics:
+    enabled: true

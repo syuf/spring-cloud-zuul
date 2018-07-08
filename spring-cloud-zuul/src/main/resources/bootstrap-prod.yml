@@ -1,0 +1,11 @@
+spring:
+  cloud:
+    config:
+      discovery:
+        enabled: true
+        serviceId: config-server
+      label: master
+      profile: prod
+    bus:
+      trace:
+        enabled: true 
